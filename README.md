@@ -53,7 +53,7 @@ docker swarm init --advertise-addr $YOURMASTERIP(for example: 192.168.64.130)
 - after run docker swarm init command you give a command in terminal for join another node
 - This command for example: ( in terminal) 
 
-- docker swarm join --token SWMTKN-1-0okhu09mf3bra9utfdjup6wsoouwac0iajwm6tzo4qnklmtr2x-0damzrmu9e94zpg1z6x1a1f7n 192.168.64.130:2377
+- docker swarm join --token SWMTKN-1-0okhu09mf3bra9utfdjup6wsoouwac0iajwm6tzo4qnklmtr2x-0damzrmu9e94zpg1z6x1a1f7n 192.168.64.130:2377(This is different for everyone)
 
 ## 7.check for available nodes 
 
