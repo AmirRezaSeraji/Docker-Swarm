@@ -19,6 +19,7 @@ for pkg in docker.io docker-doc docker-compose docker-compose-v2 podman-docker c
   sudo apt-get remove $pkg; 
 done
 
+---
 
 Add Docker’s official GPG key:
 
