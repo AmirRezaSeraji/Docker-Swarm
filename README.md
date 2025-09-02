@@ -1,6 +1,4 @@
-# **Install Docker Swarm, Portainer, and Launch an Nginx Service with Ingress**
-
-# 🚀 Docker Swarm + Portainer Setup Guide
+# 🚀 Docker Swarm + Portainer Setup Guide and Launch an Nginx Service with Ingress
 
 This documentation explains how to install Docker, set up a Docker Swarm cluster, and deploy **Portainer** for cluster management.  
 
