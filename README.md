@@ -8,7 +8,7 @@ This documentation explains how to install Docker, set up a Docker Swarm cluster
 - At least 2 nodes (1 manager, 1 worker)
 - Root or sudo access
 
-## 📌 1. Remove Old Versions & Install Docker (Official Package)
+## 📌 1. Remove Old Versions
 
 First, check for existing Docker/Container runtimes and remove them:
 
@@ -18,3 +18,8 @@ sudo apt update
 for pkg in docker.io docker-doc docker-compose docker-compose-v2 podman-docker containerd runc; do 
   sudo apt-get remove $pkg; 
 done
+
+---
+
+## ⚙️ Step 1: Install Docker from Official Package
+```bash
