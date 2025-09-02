@@ -1,1 +1,3 @@
-Install Docker swarm and portainer
+# **Install Docker swarm and Portainer and launch an Nginx Service with Ingress**
+
+
